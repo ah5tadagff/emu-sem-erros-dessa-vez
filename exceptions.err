@@ -1,0 +1,176 @@
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+[TCPListener.OnRequest]: Could not handle new connection request: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.TextData.Looping(IAsyncResult element)
+
+[TCPListener.OnRequest]: Could not handle new connection request: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.TextData.Looping(IAsyncResult element)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+User DC: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.Types.StoreSeparatorCyclical.Add(Boolean pre)
+   em MySql.Data.MySqlClient.ParametersPlayGrip.Drop(UInt32 access)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Escape()
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+   em MySql.Data.MySqlClient.Properties.NameSubLine.Resuming(ViewMethod attribute, NumberEventHost riid)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+[TCPListener.OnRequest]: Could not handle new connection request: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.TextData.Looping(IAsyncResult element)
+
+[TCPListener.OnRequest]: Could not handle new connection request: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.TextData.Looping(IAsyncResult element)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+User DC: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.Types.StoreSeparatorCyclical.Add(Boolean pre)
+   em MySql.Data.MySqlClient.ParametersPlayGrip.Drop(UInt32 access)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Escape()
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+   em MySql.Data.MySqlClient.Properties.NameSubLine.Resuming(ViewMethod attribute, NumberEventHost riid)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.ArgumentException: A coluna 'volume' n?o pertence ? tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em MySql.Data.MySqlClient.Properties.PaintEventTip.Bind(DataRow path, String value, ViewMethod valuePredicate, Sink valueAltered)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.And(String right)
+
+User DC: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Version()
+   em MySql.Data.MySqlClient.ProxyExtendedHelper.Read(ViewMethod parameter, NumberEventHost string)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+User DC: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Version()
+   em MySql.Data.MySqlClient.ProxyExtendedHelper.Read(ViewMethod parameter, NumberEventHost string)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+User DC: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Version()
+   em MySql.Data.MySqlClient.ProxyExtendedHelper.Read(ViewMethod parameter, NumberEventHost string)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+User DC: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Version()
+   em MySql.Data.MySqlClient.ProxyExtendedHelper.Read(ViewMethod parameter, NumberEventHost string)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+User DC: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Version()
+   em MySql.Data.MySqlClient.ProxyExtendedHelper.Read(ViewMethod parameter, NumberEventHost string)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+
+User DC: MySql.Data.Types.HelpPara (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '48449 ORDER BY timestamp DESC LIMIT 100' at line 1
+   em MySql.Data.Types.ChannelBackgroundCancel.Get()
+   em MySql.Data.MySqlClient.Properties.DataAsync.GetAnchor(Int32& instance, Int32& right)
+   em MySql.Data.MySqlClient.ManagerDeflate.GetCompleted(Int32 token, Int32& graphics, Int32& description)
+   em MySql.Data.MySqlClient.ManagerDeflate.Data(Int32 document, Boolean crlf)
+   em MySql.Data.MySqlClient.ListData.Count()
+   em MySql.Data.MySqlClient.Properties.ProviderIsolatedApp.GetLiteral(CommandBehavior tool)
+   em MySql.Data.MySqlClient.Properties.ProviderIsolatedApp.Parse(CommandBehavior obj)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   em System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   em System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   em MySql.Data.MySqlClient.Properties.LinkEqual.Except(String callback)
+   em MySql.Data.Types.CompilerData.Add(UInt32 region)
+   em MySql.Data.MySqlClient.Properties.FileCacheEntry.Set(ViewMethod value, NumberEventHost response)
+   em MySql.Data.MySqlClient.Properties.ViewMethod.Three(Byte[]& variable)
+

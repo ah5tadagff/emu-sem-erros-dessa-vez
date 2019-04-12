@@ -1,0 +1,33 @@
+Error in thread Navigator cache task: 
+MySql.Data.Types.HelpPara (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   em MySql.Data.MySqlClient.Properties.DataAsync.GetCopy()
+   em MySql.Data.MySqlClient.ManagerDeflate.CloseInfo()
+   em MySql.Data.MySqlClient.ManagerDeflate.Click(MySqlConnectionStringBuilder log)
+   em MySql.Data.MySqlClient.Properties.FieldGuid.Get()
+   em MySql.Data.MySqlClient.Properties.LunisolarInternalData.GetForce()
+   em MySql.Data.MySqlClient.Properties.LinkEqual..ctor(BinaryStateChanging value)
+   em MySql.Data.MySqlClient.Properties.ComboPreference.Index(ViewMethod dll, Int32 this)
+   em MySql.Data.Types.Key.Rows()
+
+Error in thread Server status update task: 
+MySql.Data.Types.HelpPara (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   em MySql.Data.MySqlClient.Properties.DataAsync.GetCopy()
+   em MySql.Data.MySqlClient.ManagerDeflate.CloseInfo()
+   em MySql.Data.MySqlClient.ManagerDeflate.Click(MySqlConnectionStringBuilder log)
+   em MySql.Data.MySqlClient.Properties.FieldGuid.Get()
+   em MySql.Data.MySqlClient.Properties.LunisolarInternalData.GetForce()
+   em MySql.Data.MySqlClient.Properties.LinkEqual..ctor(BinaryStateChanging value)
+   em MySql.Data.Types.DockEntryUnit.Get()
+
+Error in thread Server status update task: 
+MySql.Data.Types.HelpPara (0x80004005): Table 'habbo.server_status' doesn't exist
+   em MySql.Data.Types.ChannelBackgroundCancel.Get()
+   em MySql.Data.MySqlClient.Properties.DataAsync.GetAnchor(Int32& instance, Int32& right)
+   em MySql.Data.MySqlClient.ManagerDeflate.GetCompleted(Int32 token, Int32& graphics, Int32& description)
+   em MySql.Data.MySqlClient.ManagerDeflate.Data(Int32 document, Boolean crlf)
+   em MySql.Data.MySqlClient.ListData.Count()
+   em MySql.Data.MySqlClient.Properties.ProviderIsolatedApp.GetLiteral(CommandBehavior tool)
+   em MySql.Data.MySqlClient.Properties.ProviderIsolatedApp.Set()
+   em MySql.Data.MySqlClient.Properties.LinkEqual.Get(String value)
+   em MySql.Data.Types.DockEntryUnit.Get()
+
